@@ -51,4 +51,4 @@ Start the XAMPP Server
 
 Testing the Application
 
-Now, you can access the app in your browser at http://localhost/turning-pages.
+Now, you can access the app in your browser at http://localhost/turning-pages....
